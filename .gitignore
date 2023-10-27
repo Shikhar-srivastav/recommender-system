@@ -1,0 +1,8 @@
+.env
+/client
+/data
+/models
+/resources
+/review
+chatbot.ipynb
+cleaner.ipynb
